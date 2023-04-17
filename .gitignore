@@ -51,6 +51,8 @@ smex-items
 company-statistics-cache.el
 # anaconda-mode
 anaconda-mode/
+node_modules/*
+.env
 ### Go ###
 # Binaries for programs and plugins
 *.exe
